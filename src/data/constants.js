@@ -7,6 +7,7 @@ export const Bio = {
     "Data Analyst",
     "Logo Designer",
   ],
+
   description:
     "I am a versatile professional passionate about innovation and excellence across diverse fields. As a Full Stacker and Web Designer, I craft seamless, visually appealing digital solutions. My expertise as an Ethical Hacker ensures secure systems, while my Data Analyst skills uncover valuable insights. Additionally, I create impactful branding as a Logo Designer, always driven by a growth mindset",
   github: "https://github.com/Roshansaiketham",
