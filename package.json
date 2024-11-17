@@ -1,10 +1,9 @@
 {
-  "name": "roshansai-portfolio",
   "version": "0.1.0",
-  "homepage": "https://roshansaik.github.io/Roshan-Portfolio/",
+  "homepage": "https://roshansaik.github.io/R-portfolio",
   "private": true,
   "dependencies": {
-    "@emailjs/browser": "^3.11.0",
+    "@emailjs/browser": "^3.12.1",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
