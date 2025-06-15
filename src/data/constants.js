@@ -12,7 +12,7 @@ export const Bio = {
     "I am a versatile professional passionate about innovation and excellence across diverse fields. As a Full Stacker and Web Designer, I craft seamless, visually appealing digital solutions. My expertise as an Ethical Hacker ensures secure systems, while my Data Analyst skills uncover valuable insights. Additionally, I create impactful branding as a Logo Designer, always driven by a growth mindset",
   github: "https://github.com/Roshansaiketham",
   resume:
-    "https://drive.google.com/file/d/1EydjwCHzMesw96z-5pjSQxd0N8ZKqvAb/view?usp=sharing",
+    "https://drive.google.com/file/d/1jexZeGnBHDNR6d-dFOxGkwIH3dtB1tVN/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/roshansai-ketham-0603b7230/",
   twitter: "https://twitter.com/RoshansaiKetham",
   insta: "https://www.instagram.com/roshansai_ketham/",
