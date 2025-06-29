@@ -53,6 +53,11 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg",
       },
       {
+        name: "Vite Js",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png",
+      },
+      {
         name: "Angular",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg",
@@ -96,9 +101,14 @@ export const skills = [
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
       {
+        name: "Supabase",
+        image:
+          "https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png",
+      },
+      {
         name: "Express Js",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
+          "https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png",
       },
       {
         name: "GraphQL",
@@ -376,8 +386,9 @@ export const projects = [
     github: "https://github.com/RoshansaiK/WeddingWebWorks",
     webapp: "https://wedding-e880e.web.app/",
   },
+
   {
-    id: 9,
+    id: 10,
     title: "Event Based Automated Certificate Management",
     date: "Jul 2024 - Jul 2024",
     description:
@@ -400,6 +411,88 @@ export const projects = [
 
     category: "web app",
     github: "https://github.com/RoshansaiK/Event-Based-Certificate-Gen",
+  },
+  {
+    id: 11,
+    title: "NoteFlow - Smart Notes Organizer",
+    date: "May 2025 - May 2025",
+    description:
+      "NoteFlow is an advanced web-based note-taking application built using React.js and TypeScript. It supports AI-based suggestions to organize notes, schedule tasks, and predict user needs based on date and context. The application enhances productivity through a clean UI and smart assistance features.",
+    image:
+      "https://cdn.glitch.global/a2f4cd7a-e11e-47eb-be85-5808f89220e6/Screenshot%202025-06-29%20104615.png?v=1751174923152",
+    tags: [
+      "React.js",
+      "TypeScript",
+      "AI Integration",
+      "Tailwind CSS",
+      "Vite",
+      "RESTful APIs",
+      "VS Code",
+    ],
+    category: "web app",
+    github: "https://github.com/RoshansaiK/noteflow",
+    webapp: "https://noteflow-u1w9.vercel.app/login",
+  },
+  {
+    id: 12,
+    title: "LiveChat Auth - Real-Time Messaging",
+    date: "May 2025 - June 2025",
+    description:
+      "LiveChat Auth is a secure real-time messaging platform developed using Next.js, TypeScript, Supabase, and Tailwind CSS. It allows authenticated users to exchange messages instantly with real-time updates, featuring user presence detection and reaction-based interactions.",
+    image:
+      "https://cdn.glitch.global/a2f4cd7a-e11e-47eb-be85-5808f89220e6/Screenshot%202025-06-29%20104514.png?v=1751175149539",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "Supabase",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Real-Time Messaging",
+      "Reactions",
+    ],
+    category: "web app",
+    github: "https://github.com/RoshansaiK/MessageBot",
+    webapp: "https://message-bot-y3gq.vercel.app/login",
+  },
+  {
+    id: 13,
+    title: "StayFinder - Booking Web App",
+    date: "June 2025 - June 2025",
+    description:
+      "StayFinder is a modern booking platform for accommodation listings, integrating Stripe for secure payments. Built using Next.js and Tailwind CSS, it offers users an intuitive interface to search, book, and manage stays efficiently with dynamic filtering and date-based logic.",
+    image:
+      "https://cdn.glitch.global/a2f4cd7a-e11e-47eb-be85-5808f89220e6/Screenshot%202025-06-29%20104540.png?v=1751175236514",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Stripe API",
+      "Booking System",
+      "Responsive UI",
+    ],
+    category: "web app",
+    github: "https://github.com/RoshansaiK/stay_finder_booking",
+    webapp: "https://stay-finder-booking.vercel.app/",
+  },
+  {
+    id: 14,
+    title: "Roshan Copilot - AI-Powered Assistant",
+    date: "June 2025 - June 2025",
+    description:
+      "Roshan Copilot is an AI-integrated web application that offers intelligent code suggestions, content generation, and task automation. It’s built using React.js and OpenAI APIs, making it a lightweight yet powerful copilot for developers and content creators.",
+    image:
+      "https://cdn.glitch.global/a2f4cd7a-e11e-47eb-be85-5808f89220e6/Screenshot%202025-06-29%20104941.png?v=1751175887581",
+    tags: [
+      "React.js",
+      "TypeScript",
+      "OpenAI API",
+      "Tailwind CSS",
+      "AI Integration",
+      "Copilot Tools",
+    ],
+    category: "web app",
+    github: "https://github.com/RoshansaiK/ai_mention_text_gen",
+    webapp: "https://ai-mention-text-gen-n8c9.vercel.app/",
   },
 ];
 
